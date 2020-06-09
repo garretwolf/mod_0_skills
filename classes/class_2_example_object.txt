@@ -1,4 +1,4 @@
-Class 2 Object: JoesSteakhouse
+Class 2 Object: JoesSteakhouseMenu
 
 Attributes:
 creator = ["Joe Williams"]
