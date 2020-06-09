@@ -1,0 +1,13 @@
+Class 1 Object: BurgerKing
+
+Attributes:
+owner_name = "Jon Jones"
+total_seating_capacity = 36
+current_number_of_employees = 16
+is_open = false
+
+Methods:
+change_owner = "Joe Lewis"
+add_seat = 37
+hire_employee = 17
+is_open = true
