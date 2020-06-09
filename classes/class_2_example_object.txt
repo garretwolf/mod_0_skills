@@ -1,0 +1,15 @@
+Class 2 Object: JoesSteakhouse
+
+Attributes:
+creator = ["Joe Williams"]
+cuisine_type = "Steakhouse"
+number_of_selections = 31
+color = "Red"
+is_one_page = false
+
+Methods:
+add_creator = ["Joe Williams", "Mary Jones"]
+change_cuisine_type = "Seafood"
+remove_selection = 30
+change_color = "Blue"
+one_page = true
