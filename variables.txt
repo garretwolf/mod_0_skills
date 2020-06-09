@@ -1,0 +1,10 @@
+1. food = "pizza"
+2. is_delicious = true
+3. food = "steak"
+4. num2 = 5
+5. num7 = 10
+6. quotient = num7 / num2
+7. songs = ["Thriller", "Rockstar", "Memories", "Nobody But You"]
+8. songs.shift
+9. puts "How many characters are there in the food string? "
+   puts food.length
