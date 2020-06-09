@@ -1,0 +1,13 @@
+Class: FastFoodRestaurant
+
+Attributes:
+owner_name (string)
+total_seating_capacity (integer)
+current_number_of_employees (integer)
+is_open (boolean)
+
+Methods:
+change_owner (modifies the owner_name attribute)
+add_seat (modifies the total_seating_capacity attribute. total_seating_capacity + 1)
+hire_employee (modifies the current_number_of_employees attribute. current_number_of_employees + 1)
+open (modifies the is_open attribute)
