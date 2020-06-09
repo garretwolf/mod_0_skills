@@ -1,0 +1,15 @@
+Class: Menu
+
+Attributes:
+creator (array)
+cuisine_type (string)
+number_of_selections (integer)
+color (string)
+is_one_page (boolean)
+
+Methods:
+add_creator (modifies the creator attribute)
+change_cuisine_type (modifies the cuisine_type attribute)
+remove_selection (modifies the number_of_selections attribute. number_of_selections - 1)
+change_color (modifies the color attribute)
+one_page (modifies the is_one_page attribute)
